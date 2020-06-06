@@ -7,7 +7,7 @@ addons:
     - jq
 env:
   global:
-  - SPEC_FILE: https://raw.githubusercontent.com/tweirtx/the-blue-alliance/master/static/swagger/api_v3.json
+  - SPEC_FILE: https://tweirtx.github.io/tba.json
   - USER_NAME: tweirtx
   - GITHUB_ORG: tweirtx
   matrix:
